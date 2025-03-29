@@ -41,13 +41,10 @@ int main () {
     }
     
 
-    printf("\npress enter to exit.... ");
+    printf("\npress enter to exit dfdsafdsf.... ");
     getch();
 
 
     return 0;
 }
 
-// git remote add origin https://github.com/AKASH-KR-2/c-tuto.git
-// git branch -M main
-// git push -u origin main
